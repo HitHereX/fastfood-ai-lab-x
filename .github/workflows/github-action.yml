@@ -5,7 +5,7 @@ on:
     branches: [ main ]
 
 env:
-  DOCKERHUB_USERNAME: HitHereX
+  DOCKERHUB_USERNAME: hitherex
   DOCKERHUB_PASSWORD: carpediem1!  
 
 jobs:
